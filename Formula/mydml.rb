@@ -2,7 +2,7 @@ class Mydml < Formula
   desc "MySQL batch DML tool — DELETE/UPDATE/INSERT_SELECT without locking"
   homepage "https://github.com/jackiesre721/mydml"
   url "https://github.com/jackiesre721/mydml/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "ccef5893c7a43d28813b8ba02cb074867d84086584db18c24ef4a225aaad93ff"
+  sha256 "0b96c0ce249fd3a66e2d2b25999183d82f5b5e72a19d79ff2035b9643eea15f4"
   license "MIT"
 
   depends_on "go" => :build
